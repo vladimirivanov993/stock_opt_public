@@ -3,37 +3,37 @@
 1 и 2 задачи запускаются классом main в stock_opt StartOpt.java
 Выходит примерно такой экран:
 
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
 |                                    |
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
 |                                    |
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
 |                                    |
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
 |                                    |
 
 Введите адрес перемещения:
@@ -46,37 +46,37 @@
 
 Введите адрес перемещения:
 4,3;12,13
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
 |                                    |
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
 |                                    |
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰F 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰. 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰. 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰. 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰. 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XF XX XX XX XX XX XX XX X|
+|X XX XX XX X. XX XX XX XX XX XX XX X|
+|X XX XX XX X. XX XX XX XX XX XX XX X|
+|X XX XX XX X. XX XX XX XX XX XX XX X|
+|X XX XX XX X. XX XX XX XX XX XX XX X|
 |    .........                       |
-|🧰 🧰🧰.🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰.🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰.🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰.🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰S🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
-|🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰🧰 🧰|
+|X XX.XX XX XX XX XX XX XX XX XX XX X|
+|X XX.XX XX XX XX XX XX XX XX XX XX X|
+|X XX.XX XX XX XX XX XX XX XX XX XX X|
+|X XX.XX XX XX XX XX XX XX XX XX XX X|
+|X XXSXX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
+|X XX XX XX XX XX XX XX XX XX XX XX X|
 |                                    |
 
 Длина маршрута: 19
