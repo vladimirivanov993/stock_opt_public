@@ -18,10 +18,10 @@ public static String viewToConsole(String[][] sm){
     	 }
     	 s = s.concat(sep+"\n");
      }
-    s=s.replaceAll("A", "🧰");
-    s=s.replaceAll("B", "🧰");
-    s=s.replaceAll("I", "🧰");
-    s=s.replaceAll("E", "🧰");
+    s=s.replaceAll("A", "X");
+    s=s.replaceAll("B", "X");
+    s=s.replaceAll("I", "X");
+    s=s.replaceAll("E", "X");
 	return s;
 }
 
