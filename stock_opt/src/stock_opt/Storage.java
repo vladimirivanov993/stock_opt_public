@@ -62,6 +62,7 @@ public class Storage {
 		Pair point_end;
 		int e_x = p2.getX();
 		int e_y = p2.getY();
+	        v = ss[p2.getX()];
 		if(v == "B") {
 			e_x = p2.getX() + 1;			
 		} else 
